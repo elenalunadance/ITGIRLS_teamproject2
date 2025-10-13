@@ -1,11 +1,11 @@
-# Учебный проект 2
+# Description
 
-## Именование веток
+A team project for a real client - a fitness coach.
 
-`feat/my-new-great-feature` -- с таким префиксом называем ветки фичей, которые добавляют новые блоки, стили, разметку, в общем то, что будет видеть пользователь
+# Technologies
 
-`chore/package-json` -- так называем рутинные ветки, в которые добавляем всякие штуки для разработки, конфигурации, .gitignore и т. п.
+HTML, CSS (preprocessor Sass), JavaScript
 
-`fix/footer-position-fix` -- так называем багфиксы
+# Demo
 
-Название ветки состоит из двух частей, разделённых /. Первая часть -- префикс, описана выше. Вторая часть -- пара-тройка слов, разделённых дефисом, где описывается, что сделано в этой ветке.
+https://elenakovenkova.github.io/fitness-coach_page/
